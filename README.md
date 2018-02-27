@@ -48,3 +48,8 @@ Signal | Buy
 - WAVES
 - ARAGON
 - OMG-omisego
+
+## Airtable
+https://airtable.com/shruIY1Vj08SFgYim
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shruIY1Vj08SFgYim?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
